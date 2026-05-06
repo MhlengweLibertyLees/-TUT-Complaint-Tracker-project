@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/admin/dashboard.jsp</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/index.jsp</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/src/java/com/tut/complaint/servlet/RespondServlet.java</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/error/403.jsp</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/js/app.js</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/src/java/com/tut/complaint/servlet/ComplaintServlet.java</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/src/java/com/tut/complaint/filter/RoleFilter.java</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/src/java/com/tut/complaint/servlet/ManageUsersServlet.java</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/WEB-INF/navbar.jsp</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/src/java/com/tut/complaint/servlet/RegisterServlet.java</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/src/java/com/tut/complaint/servlet/ApproveUserServlet.java</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/student/myComplaints.jsp</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/student/complaintDetail.jsp</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/student/submitComplaint.jsp</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/src/java/com/tut/complaint/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/admin/manageUsers.jsp</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/src/java/com/tut/complaint/servlet/LogoutServlet.java</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/student/dashboard.jsp</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/src/java/com/tut/complaint/servlet/AdminDashboardServlet.java</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/login.jsp</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/admin/viewComplaint.jsp</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/register.jsp</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/web/css/style.css</file>
+            <file>file:/C:/Users/Liberty%20Chauke/Documents/NetBeansProjects/ComplaintWeb/src/java/com/tut/complaint/filter/AuthFilter.java</file>
+        </group>
+    </open-files>
+</project-private>
